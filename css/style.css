@@ -8,3 +8,20 @@ html, body {
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/1200px-Smiley.svg.png");
     background-color: lightblue;
 }
+
+.hero2 {
+    background: #2A01FF;
+    background: radial-gradient(circle at center, #2A01FF, #FF0104);
+    height: 100%;
+}
+
+.hero3 {
+    height: 100%;
+    background-image: radial-gradient(circle at center, #2A01FF, #FF0104, transparent), url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/1200px-Smiley.svg.png");
+    background-color: lightblue;
+}
+
+        /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=2a01ff&c2=ff0104&gt=r&gd=dtl
+*/ 
